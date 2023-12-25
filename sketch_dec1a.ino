@@ -13,7 +13,7 @@ void setup() {
 
 void loop() {
   int time1 = 5000;
-  int time 2 = 3;
+  int time2 = 3;
   
   int waterSensor = digitalRead(waterPin); 
   if (waterSensor){
